@@ -14,7 +14,7 @@ namespace jenkinscore1Demo.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Baki", "Hello" };
         }
 
         // GET api/values/5
