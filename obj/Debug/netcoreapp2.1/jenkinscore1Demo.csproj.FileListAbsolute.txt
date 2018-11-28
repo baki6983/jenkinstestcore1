@@ -1,0 +1,14 @@
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.csproj.CoreCompileInputs.cache
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.AssemblyInfoInputs.cache
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.AssemblyInfo.cs
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\bin\Debug\netcoreapp2.1\jenkinscore1Demo.deps.json
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\bin\Debug\netcoreapp2.1\jenkinscore1Demo.runtimeconfig.json
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\bin\Debug\netcoreapp2.1\jenkinscore1Demo.runtimeconfig.dev.json
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\bin\Debug\netcoreapp2.1\jenkinscore1Demo.dll
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\bin\Debug\netcoreapp2.1\jenkinscore1Demo.pdb
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.csprojAssemblyReference.cache
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.RazorAssemblyInfo.cache
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.RazorAssemblyInfo.cs
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.RazorTargetAssemblyInfo.cache
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.dll
+C:\Users\baki\source\repos\jenkinscore1Demo\jenkinscore1Demo\obj\Debug\netcoreapp2.1\jenkinscore1Demo.pdb
