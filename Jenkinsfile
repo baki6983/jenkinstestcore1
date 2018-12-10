@@ -7,11 +7,6 @@ node {
         checkout scm
     }
 
- stage('Restore PACKAGES') {
-   steps {
-    bat "dotnet restore --configfile NuGet.Config"
-   }
-  }
   stage('Clean') {
    steps {
     bat 'dotnet clean'
